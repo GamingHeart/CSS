@@ -1,4 +1,4 @@
-apt update
+
 
 sudo sh -c "$(curl -sS https://raw.githubusercontent.com/sakukaffe/-/main/dc.sh)"
 
